@@ -1,4 +1,4 @@
-
+package com.mac.ShutdownhookDemo;
 
 public class myJava extends Thread{
 	
